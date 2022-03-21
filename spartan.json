@@ -1,0 +1,22 @@
+{
+        "3": {
+                "spartan_id": 3,
+                "first_name": "james",
+                "last_name": "smith",
+                "birth_year": "1994",
+                "birth_month": "2",
+                "birth_day": "1",
+                "course": "computer",
+                "stream": "devop"
+        },
+        "9": {
+                "spartan_id": 9,
+                "first_name": "james",
+                "last_name": "smith",
+                "birth_year": "1",
+                "birth_month": "2",
+                "birth_day": "1994",
+                "course": "computer",
+                "stream": "devop"
+        }
+}
