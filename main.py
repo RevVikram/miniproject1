@@ -1,4 +1,4 @@
-from flask import Flask, request, abort
+from flask import Flask, request
 import management
 from management import all_sparta_dict
 from spartan import Spartan
